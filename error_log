@@ -1,0 +1,4 @@
+[06-May-2024 07:05:14 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in phar:///usr/local/bin/wp-cli-2.6.0.phar/vendor/wp-cli/wp-cli/php/utils.php on line 981
+[06-May-2024 07:05:14 UTC] PHP Deprecated:  realpath(): Passing null to parameter #1 ($path) of type string is deprecated in phar:///usr/local/bin/wp-cli-2.6.0.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php on line 301
+[06-May-2024 07:05:14 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in phar:///usr/local/bin/wp-cli-2.6.0.phar/vendor/wp-cli/wp-cli/php/utils.php on line 981
+[06-May-2024 07:05:14 UTC] PHP Deprecated:  realpath(): Passing null to parameter #1 ($path) of type string is deprecated in phar:///usr/local/bin/wp-cli-2.6.0.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php on line 301
